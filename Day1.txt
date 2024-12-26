@@ -1,1 +1,29 @@
+Operating system is a interface where the user interact with devices easily.
+
+Basic Commands
+****************
+
+command    =     desc
+date       =     date  
+cal        =     calender
+uptime     =     Time 
+whoami     =     user(root or any)
+exit       =     exit
+sudo su -  =     back to user
+finger     =     info about user
+users/id   =     user info
+man        =     shows manual command(desc of commands with example)
+username   =     shows your username
+who/w      =     display who is online
+
+Directory Commands
+*******************
+
+ls         =     directory listing
+cat        =     view file content
+less       =     view a file page by page
+more       =     output the contents of file
+head       =     first 10 lines
+tail       =     last 10  lines
+page       =     display file page by page
 
